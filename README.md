@@ -2,7 +2,6 @@
 1. [ Description. ](#desc)
 2. [ See the full portfolio. ](#web-address)
 3. [ How to navigate the page. ](#usage)
-4. [ Contributing. ](#contributing)
 
 
 <a name="desc"></a>
@@ -14,7 +13,7 @@
 
 Here is an image of Ben's Portfolio:
 
-![Top-Page-Area](./assets/images/screen3.JPG?raw=true "Top-Page-Area")
+![Top-Page-Area](./assets/img/screen3.JPG?raw=true "Top-Page-Area")
 
 
 <a name="web-address"></a>
@@ -33,11 +32,11 @@ https://snowrepor.github.io/Web-Dev-Protfolio/
 
 Navigation menu location:
 
-![nav-menu](./assets/images/screen1.JPG?raw=true "Navigational Menu")
+![nav-menu](./assets/img/screen1.JPG?raw=true "Navigational Menu")
 
 Navigation menu image:
 
-![nav-menu](./assets/images/screen3.JPG?raw=true "Navigational Menu")
+![nav-menu](./assets/img/screen3.JPG?raw=true "Navigational Menu")
 
 Use the navigation links to move to the desired section of the portfolio.
 
