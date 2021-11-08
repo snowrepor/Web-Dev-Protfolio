@@ -32,7 +32,7 @@ https://snowrepor.github.io/Web-Dev-Protfolio/
 
 Navigation menu location:
 
-![nav-menu](./assets/img/screen6.JPG?raw=true "Navigational Menu")
+![nav-menu](./assets/img/screen6.jpg?raw=true "Navigational Menu")
 
 Navigation menu image:
 
