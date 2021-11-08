@@ -288,9 +288,6 @@ header {
     margin: 0 auto;
 }
 
-.about-me__img{
-    box-shadow: var(--bs);
-}
 
 @media (min-width: 600px) {
     .about-me {
@@ -316,13 +313,6 @@ header {
         padding-left: 1em;
         padding-right: calc(200px + 4em);
     }
-
-    .about-me__img{
-      grid-area: img;
-      position: relative;
-      z-index: 2;
-    }
-}
 
 /*footer*/
 
@@ -367,15 +357,4 @@ header {
 .social-list__link {
     padding: .5em;
 }
-
-
-
-
-
-
-
-
-
-
-
 
