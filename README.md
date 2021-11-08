@@ -20,10 +20,10 @@ Here is an image of Ben's Portfolio:
 <a name="web-address"></a>
 ## 2. See the full Portfolio!
 
-### Copy and Paste the link below into prefered browser to see the full portfolio! 
+### Copy and Paste the link below into preferred browser to see the full portfolio! 
 
 ```html
-https://bubba-dave.github.io/my-portfolio/
+https://snowrepor.github.io/Web-Dev-Protfolio/
 ```
 <a name="usage"></a>
 ## 3. Moving around the page
@@ -41,6 +41,6 @@ Navigation menu image:
 
 Use the navigation links to move to the desired section of the portfolio.
 
-<a name="Bulit By"></a>
+<a name="Built By"></a>
 ## 4. Contributors 
 Ben Miller
