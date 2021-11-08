@@ -13,7 +13,7 @@
 
 Here is an image of Ben's Portfolio:
 
-![Top-Page-Area](./assets/img/screen3.JPG?raw=true "Top-Page-Area")
+![Top-Page-Area](./assets/img/screen4.JPG?raw=true "Top-Page-Area")
 
 
 <a name="web-address"></a>
@@ -32,11 +32,11 @@ https://snowrepor.github.io/Web-Dev-Protfolio/
 
 Navigation menu location:
 
-![nav-menu](./assets/img/screen1.JPG?raw=true "Navigational Menu")
+![nav-menu](./assets/img/screen6.JPG?raw=true "Navigational Menu")
 
 Navigation menu image:
 
-![nav-menu](./assets/img/screen3.JPG?raw=true "Navigational Menu")
+![nav-menu](./assets/img/screen5.JPG?raw=true "Navigational Menu")
 
 Use the navigation links to move to the desired section of the portfolio.
 
